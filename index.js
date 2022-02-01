@@ -770,5 +770,5 @@ client.on('guildDelete', guild => {
 });
 
 
-client.login("OTM4MTg2MzUzNTEyOTU1OTI0.YfmoIQ.8Aos3toIqArMLaMkVLyflqGrTHI");
+client.login("OTM4MTg2MzUzNTEyOTU1OTI0.YfmoIQ.TjYI50NFBLGdKtLsDygt43blxiw");
 ////////////Coded By DarkMan
